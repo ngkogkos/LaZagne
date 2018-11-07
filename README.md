@@ -82,7 +82,7 @@ So, I recommend using one of these options
 
 * If you know the user password, add it in the command line 
 ```
-laZagne all --password SuperSecurePassword
+laZagne all -password SuperSecurePassword
 ```
 * You could use the interactive mode that will prompt a dialog box to the user until the password will be correct 
 ```
